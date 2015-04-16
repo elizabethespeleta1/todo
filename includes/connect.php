@@ -10,6 +10,7 @@
 	else{
 		echo "Connection made";
 	}
+	//closing the database
 	$mysqli->close();
 
 ?>
