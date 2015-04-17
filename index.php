@@ -8,6 +8,7 @@
 	<div class="wrap">
 		<div class= "task-list">
 			<ul>
+			<!-- getting info from connect.php -->
 			<?php require("includes/connect.php"); ?>
 			</ul>
 		</div>
